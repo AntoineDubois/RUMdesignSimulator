@@ -21,6 +21,8 @@ The files **tutorial.Rmd** or **tutorial.pdf** presents the RUMdesignSimulator p
 ## Adding new features
 Some user may need more tools than the actual ones. Anticipating future needs, we 
 organized the R files so that only one file need to be altered.<br/>  
+![125319775-5a26cd00-e33b-11eb-8b12-31577a09382d](https://user-images.githubusercontent.com/77892842/125950655-1b238b76-6dd5-4717-8104-90b1987168df.png)
+
 To add new distributions: 
 * open the file distribution.R
 * add a new distribution
